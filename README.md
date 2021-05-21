@@ -1,5 +1,5 @@
 # ERCrypt
-Encrypt/Decrypt a piece of data with Key and IV using Apple's CommonCryptor
+Encrypt/Decrypt a piece of data with Key and IV using Apple's CommonCryptor (AES128)
 
 
 Usage:
